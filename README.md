@@ -1,5 +1,8 @@
 # 💫 About Me:
-# ¡Hola! Soy Yaker 👋<br>Actualmente estoy cursando el último ciclo de la carrera de Ingeniería de Sistemas. <br>Soy un apasionado desarrollador de software y tengo un fuerte interés en el desarrollo frontend, especialmente utilizando tecnologías como HTML, CSS, SASS, JavaScript y React.js(En proceso de aprendizaje)<br>
+<div align=center>
+        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;¡Hola! Soy Yaker 👋;Front-End+Engineert" alt="Headline" />
+</div>
+<br>Actualmente estoy cursando el último ciclo de la carrera de Ingeniería de Sistemas. <br>Soy un apasionado desarrollador de software y tengo un fuerte interés en el desarrollo frontend, especialmente utilizando tecnologías como HTML, CSS, SASS, JavaScript y React.js(En proceso de aprendizaje)<br>
 
 
 ## 🌐 Socials:
