@@ -1,12 +1,11 @@
 # 💫 About Me:
-<div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;¡Hola! Soy Yaker 👋;Front-End+Engineert" alt="Headline" />
+
 <div align=center>
         <img src="https://raw.githubusercontent.com/AhmedFathyDev/AhmedFathyDev/main/GitHub.png" alt="GitHub Octocat Drinking a Cup of Coffee" height="200">
-    </div>
-    <div align=center>
-        <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;Computer+Science+Student;Back-End+Engineer;Problem+Solver;Freelancer;Open-Source+Enthusiast" alt="Headline" />
-    </div>
+</div>
+<div align=center>
+<img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=50&lines=Hi+there+I'm+Fathy+%F0%9F%91%8B;¡Hola! Soy Yaker 👋;Front-End+Engineert" alt="Headline" />
+ </div>
 </div>
 <br>Actualmente estoy cursando el último ciclo de la carrera de Ingeniería de Sistemas. <br>Soy un apasionado desarrollador de software y tengo un fuerte interés en el desarrollo frontend, especialmente utilizando tecnologías como HTML, CSS, SASS, JavaScript y React.js(En proceso de aprendizaje)<br>
 
