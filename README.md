@@ -5,7 +5,7 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=70&lines=¡Hola!+Soy+Yaker+%F0%9F%91%8B"/>
 </div>
-
+<div align=center >
 <br>Actualmente estoy cursando el último ciclo de la carrera de Ingeniería de Sistemas. <br>Soy un apasionado desarrollador de software y tengo un fuerte interés en el desarrollo frontend, especialmente utilizando tecnologías como HTML, CSS, SASS, JavaScript y React.js(En proceso de aprendizaje)<br>
 
 
@@ -25,5 +25,6 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=YakerHuertas26&icon=0&color=0)](https://visitcount.itsvg.in)
+</div>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
