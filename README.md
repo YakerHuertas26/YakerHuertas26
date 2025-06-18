@@ -6,7 +6,7 @@
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=70&lines=¡Hola!+Soy+Yaker+%F0%9F%91%8B"/>
 </div>
 <div >
-<br>Actualmente estoy cursando el último ciclo de la carrera de Ingeniería de Sistemas. <br>Soy un apasionado desarrollador de software y tengo un fuerte interés en el desarrollo frontend, especialmente utilizando tecnologías como HTML, CSS, SASS, JavaScript y React.js(En proceso de aprendizaje)<br>
+<br><br>
 
 
 # 🌐 Socials:
