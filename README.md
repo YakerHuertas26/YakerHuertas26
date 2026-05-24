@@ -5,7 +5,7 @@
     <div align=center>
         <img src="https://readme-typing-svg.herokuapp.com?color=%236FDA44&size=32&center=true&vCenter=true&width=600&height=70&lines=¡Hola!+Soy+Yaker+%F0%9F%91%8B"/>
 </div>
-<div >
+<div align=center >
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yaker-huertas/) 
@@ -18,7 +18,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=YakerHuertas26&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=YakerHuertas26&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
